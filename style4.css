@@ -1,0 +1,29 @@
+*{
+    color: white;
+}
+#top{ background-color: black;
+    height: 50px;
+    ;
+     }
+    #id1{ 
+        color: orange;
+        font-size: 20px;
+    } 
+    a{
+        color: white;
+        margin-right: 200px;
+        text-decoration: none;
+    }
+.contentbox{
+    height:100px;
+    width:100px;
+    border:2px solid blue;
+    display: inline-block;
+}
+#content{
+    height: 500px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}

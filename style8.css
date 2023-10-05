@@ -1,0 +1,17 @@
+div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid yellow;
+    border-top: 20px solid yellowgreen;
+    animation: rotat 1s ease-in 0s infinite normal;
+} 
+
+@keyframes rotat{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
